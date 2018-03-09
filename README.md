@@ -1,2 +1,4 @@
-# exercise-repo
+<<<<<<< HEAD
+=======
 New conflict
+>>>>>>>
