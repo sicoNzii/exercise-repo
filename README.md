@@ -1,3 +1,1 @@
-New conflict
-
-New conflict 2
+Repo made for exercises! We resolved the conflict.
